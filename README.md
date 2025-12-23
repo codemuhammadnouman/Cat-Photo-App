@@ -12,7 +12,7 @@
 
 ## 🌟 Features
 
-* 🖼 Display a **cute cat picture** with clickable link.
+* 🖼 Display a **cute cat picture** with  clickable link.
 * ❤️ Show **things cats love** in an unordered list.
 * 💢 Show **things cats hate** in an ordered list.
 * 🖊 Use **figures with captions** for images.
